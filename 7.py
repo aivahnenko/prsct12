@@ -5,5 +5,4 @@ for i in range(len(numbers)):
         print(f'Индекс числа {target}: {i}')
         break
 else:
-
     print('Нет такого числа')
